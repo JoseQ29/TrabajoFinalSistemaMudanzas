@@ -8,8 +8,6 @@ The system manages clients, cities, routes between cities, and moving requests.
 
 ## Data Structures
 
-| Structure | Used for |
-|---|---|
 | **AVL Tree** (custom) 
 | **AVL Dictionary** (custom)
 | **Graph** (custom, adjacency list) 
@@ -32,7 +30,3 @@ Reads initial data from a text file (cargaInicial.txt)
 Java
 NetBeans / Maven
 
-
-
-Developed `[individually / in a team of N]`:
-- Jose Quintanilla `[your part]`
