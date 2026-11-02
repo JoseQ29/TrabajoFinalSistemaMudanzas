@@ -8,12 +8,12 @@ The system manages clients, cities, routes between cities, and moving requests.
 
 ## Data Structures
 
-| **AVL Tree** (custom) 
-| **AVL Dictionary** (custom)
-| **Graph** (custom, adjacency list) 
-| **One-to-Many Map** (custom, AVL-based) 
-| **Linked List** (custom) 
-| **HashMap** (Java standard library) 
+**AVL Tree** (custom) 
+**AVL Dictionary** (custom)
+**Graph** (custom, adjacency list) 
+**One-to-Many Map** (custom, AVL-based) 
+**Linked List** (custom) 
+**HashMap** (Java standard library) 
 
 ## Features
 
